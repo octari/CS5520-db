@@ -1,32 +1,16 @@
 {
-  "words": [
+  "Students": [
     {
-      "id": "Mountain",
-      "pronunciation": "moun-tain",
-      "meaning": "mou",
-      "synonyms": "this",
-      "example": "I love Mountains",
-      "url": "https://cdn.britannica.com/67/19367-050-885866B4/Valley-Taurus-Mountains-Turkey.jpg"
+      "id": "123",
+      "fistName": "Mou",
+      "lastName": "Hello",
+      "school": "husky",
     },
     {
-      "id": "Game",
-      "pronunciation": "ga-me",
-      "meaning": "mganou",
-      "synonyms": "here",
-      "example": "I love gaming",
-      "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/FortNite-Mobile-video-screenshot-Apps-Weekly-920x470.jpg"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": "456",
+      "fistName": "Mou",
+      "lastName": "Woof",
+      "school": "Havard"
     }
   ]
 }
