@@ -1,7 +1,7 @@
 {
-  "students": [
-    { "id": 1, "fistName": "Mou", "lastName": "Hello", "school": "NEU" },
-    { "id": 2, "fistName": "Mou", "lastName": "Woof", "school": "Havard" },
-    { "id": 3, "fistName": "Mou", "lastName": "Moo", "school": "MIT" }
+  "habits": [
+    { "id": 1, "activity": "drink water", "frequency": "8", "time unit": "day" },
+    { "id": 2, "activity": "exercise", "frequency": "1", "time unit": "day" },
+    { "id": 3, "activity": "water plant", "frequency": "1", "time unit": "day" }
   ]
 }
