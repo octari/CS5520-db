@@ -1,7 +1,7 @@
 {
   "habits": [
-    { "id": 1, "activity": "drink water", "frequency": "8", "time unit": "day" },
-    { "id": 2, "activity": "exercise", "frequency": "1", "time unit": "day" },
-    { "id": 3, "activity": "water plant", "frequency": "1", "time unit": "day" }
+    { "id": 1, "activity": "drink water", "frequency": "8", "timeUnit": "day" },
+    { "id": 2, "activity": "exercise", "frequency": "1", "timeUnit": "day" },
+    { "id": 3, "activity": "water plant", "frequency": "1", "timeUnit": "day" }
   ]
 }
