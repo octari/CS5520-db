@@ -1,7 +1,7 @@
 {
   "habits": [
-    { "id": "drink water", "frequency": "8", "timeUnit": "day" },
+    { "id": "hydrate", "frequency": "8", "timeUnit": "day" },
     { "id": "exercise", "frequency": "1", "timeUnit": "day" },
-    { "id": "water plant", "frequency": "1", "timeUnit": "day" }
+    { "id": "plant", "frequency": "1", "timeUnit": "day" }
   ]
 }
